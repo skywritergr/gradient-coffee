@@ -17,3 +17,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### Video of how it looks like
+
+
+https://github.com/skywritergr/gradient-coffee/assets/1362625/df5f0b3e-48a2-44ea-b028-1095a46d1c09
+
